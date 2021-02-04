@@ -7,6 +7,13 @@ You can read more about it on my blog: <a href=https://best-mahogany-dolphin-856
 The data shared by <a href="https://www.kaggle.com/airbnb/seattle?select=listings.csv">Kaggle</a>
 
 ## Table of Contents
+<a href="https://github.com/AlexeiSmirnov84/airbnb/blob/main/README.md#installation">Installation</a>
+
+<a href="https://github.com/AlexeiSmirnov84/airbnb/blob/main/README.md#project-motivation">Project Motivation</a>
+
+<a href="https://github.com/AlexeiSmirnov84/airbnb/blob/main/README.md#file-descriptions">File Descriptions</a>
+
+<a href="https://github.com/AlexeiSmirnov84/airbnb/blob/main/README.md#results">Results</a>
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
